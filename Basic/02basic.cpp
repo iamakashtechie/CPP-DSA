@@ -4,10 +4,10 @@ using namespace std;
 // if we don't use this line then we will have to use like this —
 // std::cout << "Hello" << endl;
 
-int main()
-{
+int main() {
     int x = 0, y;
     std::cout << "Hi there, I'm Akash" << endl;
+    // instead of endl if we use "\n" the execution time reduces - useful in CP
     cin >> x;
     cin >> y;
     cout << x + y << endl;

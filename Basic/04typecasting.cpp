@@ -2,8 +2,7 @@
 using namespace std;
 
 // Type Casting — converting data from one type to another
-int main()
-{
+int main() {
     // Conversion                               |   Casting
     // -----------------------------------------|-----------------------------------------
     // implicit                                 |   explicit
